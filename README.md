@@ -1,4 +1,4 @@
-# Pacman Exercise
+# Map Animations
 
 _This is an exercise developed during the course Mit xPro. It displays a map with animations from point A to point B._
 
